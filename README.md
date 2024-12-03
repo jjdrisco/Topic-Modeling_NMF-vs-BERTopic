@@ -52,7 +52,7 @@ Top 6 words for each of the topics:
 <img width="701" alt="Screenshot 2024-12-03 at 10 53 39 AM" src="https://github.com/user-attachments/assets/3a24c6e6-8f36-462f-8a79-b41556099e91">
 
 Distributions of topics across all documents:
-<img width="885" alt="Screenshot 2024-12-03 at 11 44 42 AM" src="https://github.com/user-attachments/assets/6191fe16-6d54-462e-be3c-665b6aa5ec9e">
+<img width="883" alt="Screenshot 2024-12-03 at 11 50 16 AM" src="https://github.com/user-attachments/assets/b4580e9f-8478-4934-a5dd-081270fcfb86">
 
 Visualized embedding of documents in 2-D space:
 <img width="888" alt="Screenshot 2024-12-03 at 11 32 31 AM" src="https://github.com/user-attachments/assets/e52fb1d4-07bc-4433-b1f4-7373b4e61462">
