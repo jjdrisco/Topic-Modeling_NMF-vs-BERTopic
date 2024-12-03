@@ -30,6 +30,7 @@ Note: BERTopic's visualizations required the model to be created during the run 
 * **NMF**
 
 Top 10 words for each of the topics:
+
 <img width="679" alt="Screenshot 2024-12-03 at 10 49 52 AM" src="https://github.com/user-attachments/assets/ebe0a336-046b-4152-8c32-ee4057e2a2aa">
 
 Distributions of topics across all documents:
@@ -47,6 +48,7 @@ Coherence Score: **0.46**
 * **BERTopic**
 
 Top 6 words for each of the topics:
+
 <img width="701" alt="Screenshot 2024-12-03 at 10 53 39 AM" src="https://github.com/user-attachments/assets/3a24c6e6-8f36-462f-8a79-b41556099e91">
 
 Distributions of topics across all documents:
