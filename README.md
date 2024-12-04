@@ -39,6 +39,9 @@ Distributions of topics across all documents:
 Visualized embedding of documents in 2-D space:
 <img width="1026" alt="Screenshot 2024-12-03 at 10 51 21 AM" src="https://github.com/user-attachments/assets/6803b064-4fea-45b7-b5a0-97b108e60140">
 
+Visualized distribution of documents per topic based on newsgroup:
+You can view the interactive plot [here](./interactive_plot_nmf.html).
+
 Topic Diversity: **0.98**
 
 Residual Score: **0.94**
