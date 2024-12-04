@@ -42,6 +42,8 @@ Visualized embedding of documents in 2-D space:
 Visualized distribution of documents per topic based on newsgroup:
 ![Plot](newplot-3.png)
 
+[View the interactive plot](path/to/interactive_plot_nmf.html)
+
 Topic Diversity: **0.98**
 
 Residual Score: **0.94**
