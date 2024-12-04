@@ -42,7 +42,7 @@ Visualized embedding of documents in 2-D space:
 Visualized distribution of documents per topic based on newsgroup:
 ![Plot](newplot-3.png)
 
-[View the interactive plot](interactive_plot_nmf.html)
+[View the interactive plot](https://sarahb47.github.io/dsc210project/)
 
 Topic Diversity: **0.98**
 
