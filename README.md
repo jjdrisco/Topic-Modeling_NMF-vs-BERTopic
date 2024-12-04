@@ -63,7 +63,7 @@ Visualized embedding of documents in 2-D space:
 <img width="888" alt="Screenshot 2024-12-03 at 11 32 31 AM" src="https://github.com/user-attachments/assets/e52fb1d4-07bc-4433-b1f4-7373b4e61462">
 
 Visualized distribution of documents per topic based on newsgroup:
-![Plot](newplot-3.png)
+![Plot](newplot-4.png)
 
 [View the interactive plot](https://jjdrisco.github.io/dsc210project/interactive_plot_bert.html)
 
