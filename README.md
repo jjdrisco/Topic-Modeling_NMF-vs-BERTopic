@@ -23,7 +23,7 @@ Note: BERTopic's visualizations required the model to be created during the run 
   - hdbscan
   - bertopic
 
-* Open NMF_vs_BERTopic.ipynb and run all the cells of the notebook.
+* Open NMF_vs_BERT.ipynb and run all the cells of the notebook.
 
 #### Results:
 
