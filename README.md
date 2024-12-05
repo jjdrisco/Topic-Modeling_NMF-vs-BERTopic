@@ -75,3 +75,5 @@ Topic Coherence: **0.51**
 
 <img width="301" alt="Screenshot 2024-12-03 at 11 46 31 AM" src="https://github.com/user-attachments/assets/ad30649b-90ed-4896-adb2-e2db1a2de58e">
 
+NMF appears to better extract abstract themes, like religion and sport, whereas BERTopic appears to better extract more specific topics, like christianity and hockey.
+
