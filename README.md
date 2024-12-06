@@ -52,9 +52,9 @@ Coherence Score: **0.46**
 
 * **BERTopic**
 
-Top 6 words for each of the topics:
+Top 10 words for each of the topics:
 
-<img width="701" alt="Screenshot 2024-12-03 at 10 53 39 AM" src="https://github.com/user-attachments/assets/3a24c6e6-8f36-462f-8a79-b41556099e91">
+![Plot](BERTopic_topics.png)
 
 Distributions of topics across all documents:
 <img width="883" alt="Screenshot 2024-12-03 at 11 50 16 AM" src="https://github.com/user-attachments/assets/b4580e9f-8478-4934-a5dd-081270fcfb86">
